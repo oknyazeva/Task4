@@ -6,9 +6,4 @@
  			<class name="demo.tests.SearchTest" />
         </classes>
 	</test>
-	<test name="Demo Test2" preserve-order="true">
-		<classes>
-			<class name="demo.tests.SearchTest" />
-		</classes>
-	</test>
 </suite>
